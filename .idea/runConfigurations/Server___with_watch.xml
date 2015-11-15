@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server - with watch" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <node-options />
+    <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+    <tasks>
+      <task>serve</task>
+    </tasks>
+    <arguments />
+    <envs />
+    <method />
+  </configuration>
+</component>

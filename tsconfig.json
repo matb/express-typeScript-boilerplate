@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "release/",
+    "sourceMap": false
+  },
+  "exclude": [
+    "node_modules",
+    "typings",
+    "release"
+  ]
+}

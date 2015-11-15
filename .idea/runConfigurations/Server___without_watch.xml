@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server - without watch" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/release">
+    <method>
+      <option name="FwBeforeLaunchTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
