@@ -20,5 +20,6 @@
   },
   "scripts": {
     "postinstall": "gulp release"
-  }
+  },
+  "repository": "https://github.com/matb/express-typeScript-boilerplate.git"
 }
